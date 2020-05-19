@@ -5,7 +5,7 @@ A Simple implementation of sentiment classification using PyTorch
 
 > This code "Main.ipynb" is a simple code that uses IMDB Review dataset and learns Binary Sentiment Classification. 
 > Binary Sentiment Classification is a good place to start if you are just started with NLP or even learning the PyTorch framework. 
-> The code uses a 2 layer LSTM to classify the reviews either into `positive` or `negative` category.
+> The code uses a 2 layer LSTM to classify the reviews either into **positive** or **negative** category.
 
 ### Requirements
 * Pandas
